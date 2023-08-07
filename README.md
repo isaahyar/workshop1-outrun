@@ -1,6 +1,8 @@
 # OutRun  
   
-Remake developed in C++ from scratch using the SFML library for the requirements of Workshop 1.  
+Remake developed in C++ from scratch using the SFML library for the requirements of Workshop 1. 
+
+Go to <a href="https://github.com/isaahyar/workshop1-outrun/releases">releases<a/> to download the file.
   
 ### How to install
   
